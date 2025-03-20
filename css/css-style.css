@@ -437,7 +437,7 @@ textarea.form-control {
 Hero Area CSS
 =================================================*/
 .hero-section{
-  background-image: url(../img/banner/background.png);
+  background-image: url(../images/banner-background.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -570,7 +570,7 @@ Hero Area CSS
 Hero Area 2 CSS
 =================================================*/
 .hero-section-2{
-  background-image: url(../img/banner/background-main.png);
+  background-image: url(../images/banner-background-main.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -698,7 +698,7 @@ Hero Area 3 CSS
 =================================================*/
 
 .hero-section-3{
-  background-image: url(../img/banner/background-10.png);
+  background-image: url(../images/banner-background-10.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -1055,7 +1055,7 @@ Text Animation Area CSS
 Features Area CSS
 =================================================*/
 .features-section{
-  background-image: url(../img/banner/background-2.png);
+  background-image: url(../images/banner-background-2.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -1102,7 +1102,7 @@ Features Area CSS
 Features Area 2 CSS
 =================================================*/
 .features-section-2{
-  background-image: url(../img/banner/background-5.png);
+  background-image: url(../images/banner-background-5.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -1484,7 +1484,7 @@ About Area 2 CSS
 Testimonial Area CSS
 =================================================*/
 .testimonial-section{
-  background-image: url(../img/banner/background-3.png);
+  background-image: url(../images/banner-background-3.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -1533,7 +1533,7 @@ Testimonial Area CSS
 }
 
 .testimonial-section-2{
-  background-image: url(../img/banner/background-8.png);
+  background-image: url(../images/banner-background-8.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -1667,7 +1667,7 @@ Brand Area CSS
 Team Area CSS
 =================================================*/
 .team-section{
-  background-image: url(../img/banner/background-7.png);
+  background-image: url(../images/banner-background-7.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -1976,7 +1976,7 @@ Gallery Area CSS
 Pricing Area CSS
 =================================================*/
 .pricing-section {
-  background-image: url(../img/banner/background-9.png);
+  background-image: url(../images/banner-background-9.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -2102,7 +2102,7 @@ Pricing Area CSS
 Blog Area CSS
 =================================================*/
 .blog-section{
-  background-image: url(../img/banner/background-4.png);
+  background-image: url(../images/banner-background-4.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -2299,15 +2299,15 @@ Blog Area CSS
 }
 
 .widget-post .item .fullimage.bg-1{
-  background-image: url(../img/all-img/blog-side-1.jpg);
+  background-image: url(../images/all-img-blog-side-1.jpg);
 }
 
 .widget-post .item .fullimage.bg-2{
-  background-image: url(../img/all-img/blog-side-2.jpg);
+  background-image: url(../images/all-img-blog-side-2.jpg);
 }
 
 .widget-post .item .fullimage.bg-3{
-  background-image: url(../img/all-img/blog-side-3.jpg);
+  background-image: url(../images/all-img-blog-side-3.jpg);
 }
 
 .widget-post .item .info h4 a{
@@ -2532,7 +2532,7 @@ Blog Area CSS
 Blog Details Area CSS
 =================================================*/
 .blog-section-banner{
-  background-image: url(../img/all-img/blog-details-1.png);
+  background-image: url(../images/all-img-blog-details-1.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -3267,7 +3267,7 @@ Service Area CSS
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url(../img/banner/background-7.png);
+  background-image: url(../images/banner-background-7.png);
 }
 .process-wrap .process-content .process-item-wrap {
   margin: 38px 0 0;
@@ -3357,7 +3357,7 @@ Service Area CSS
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url(../img/banner/section-bg-7.png);
+  background-image: url(../images/banner-section-bg-7.png);
 }
 
 .work-section {
@@ -3436,7 +3436,7 @@ Services Details Area CSS
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url(../img/banner/project-bg.png);
+  background-image: url(../images/banner-project-bg.png);
 }
 
 .services-details-overview {
@@ -3517,31 +3517,31 @@ Section Banner Area CSS
   padding-bottom: 150px;
 }
 .sbg-1{
-  background-image: url(../img/banner/section-bg-1.png);
+  background-image: url(../images/banner-section-bg-1.png);
 }
 .sbg-2{
-  background-image: url(../img/banner/section-bg-2.png);
+  background-image: url(../images/banner-section-bg-2.png);
 }
 .sbg-3{
-  background-image: url(../img/banner/section-bg-3.png);
+  background-image: url(../images/banner-section-bg-3.png);
 }
 .sbg-4{
-  background-image: url(../img/banner/section-bg-4.png);
+  background-image: url(../images/banner-section-bg-4.png);
 }
 .sbg-5{
-  background-image: url(../img/banner/section-bg-5.png);
+  background-image: url(../images/banner-section-bg-5.png);
 }
 .sbg-6{
-  background-image: url(../img/banner/section-bg-6.png);
+  background-image: url(../images/banner-section-bg-6.png);
 }
 .sbg-7{
-  background-image: url(../img/banner/section-bg-7.png);
+  background-image: url(../images/banner-section-bg-7.png);
 }
 .sbg-8{
-  background-image: url(../img/banner/section-bg-8.png);
+  background-image: url(../images/banner-section-bg-8.png);
 }
 .sbg-9{
-  background-image: url(../img/banner/section-bg-9.png);
+  background-image: url(../images/banner-section-bg-9.png);
 }
 
 .section-banner .banner-content h2{
@@ -5098,11 +5098,11 @@ Video Area CSS
 }
 
 .vid-bg-1 {
-  background-image: url(../img/all-img/video-bg.png);
+  background-image: url(../images/all-img-video-bg.png);
 }
 
 .vid-bg-2 {
-  background-image: url(../img/all-img/video-bg-1.png);
+  background-image: url(../images/all-img-video-bg-1.png);
 }
 
 .video-section #tooltip {
@@ -5274,7 +5274,7 @@ Footer Area CSS
 }
 
 .ft-shape{
-  background-image: url(../img/banner/ft-shape.png);
+  background-image: url(../images/banner-ft-shape.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -5816,7 +5816,7 @@ Footer Area CSS
 Login Page CSS
 =================================================*/
 .login-bg{
-  background-image: url(../img/banner/background-13.png);
+  background-image: url(../images/banner-background-13.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -5936,7 +5936,7 @@ Login Page CSS
 Error CSS
 =================================================*/
 .error-section{
-  background-image: url(../img/banner/background-12.png);
+  background-image: url(../images/banner-background-12.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
